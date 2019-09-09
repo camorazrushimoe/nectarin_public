@@ -1,0 +1,233 @@
+<!-- 61 https://www.polisorb.com/ru/diseases/allergy/ -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5Z2MDDW');</script>
+<!-- End Google Tag Manager -->
+<script>
+
+<script type="text/javascript">
+    if (typeof __GetI === "undefined") {
+        __GetI = [];
+    }
+    (function () {
+        var p = {
+            type: "VIEW",
+            /* config START */
+            site_id: "5289",
+            product_id: "",
+            product_price: "",
+            category_id: "",
+            pixel_id: "polisorb_track"
+            /* config END */
+        };
+        __GetI.push(p);
+        var domain = (typeof __GetI_domain) == "undefined" ? "px.adhigh.net" : __GetI_domain;
+        var src = ('https:' == document.location.protocol ? 'https://' : 'http://') + domain + '/p.js';
+        var script = document.createElement( 'script' );
+        script.type = 'text/javascript';
+        script.src = src;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(script, s);
+    })();
+</script>
+<!-- 107 https://www.polisorb.com/ru/diseases/allergy/ -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5Z2MDDW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="fb-root"></div>
+<!-- Google Code for &#1055;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076; Conversion Page -->
+
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1032919998;
+var google_conversion_label = "lRadCNSnu1kQvrfE7AM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1032919998/?label=lRadCNSnu1kQvrfE7AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=lMIbYE/4c297oFFx2qGI8pzp9KHir*kutMqBEwtFmEQbYcPhfrT8ZbbwSd8dq8b5NHefBMcKDFL6lt4U/3HtNWlvmmF8Q6eFSZMcA6W*TaM1kmCk/ZpKIKuhZlBOkMdPZdTeY69suH753F8vk3eqhGyiRb/xR4tZX/zH9ROBlzQ-';</script>
+<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true">
+</script>
+<script type="text/javascript">
+window.criteo_q = window.criteo_q || [];
+window.criteo_q.push(
+       { event: "setEmail", email: "" }
+ ); </script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter30142279 = new Ya.Metrika({id:30142279,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/30142279" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "2672446", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2672446;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '256602378085182');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=256602378085182&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1246973708649664');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1246973708649664&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '700461103424205');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=700461103424205&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=rtJxMNJA/7Gkvyyo8ang6nVMlDz6*uvJPS1tSAC5PuqiT6WmRWyTgCnh3Hcvw4YsD79Tnz2S3azkPjZBaAS6ehIaRDye5S5JdfPtq/shT6qGX0yYp5RcXF2HEm9knK13T9gaOlqod5WN9X9NtRKXb9UHNKg6BuZ7OEGusxrDXBI-&pixel_id=1000032164';</script>
+<div id="panel"></div>
+<div id="main" class="innerMain" style="">
+    <header>
+        <div class="center">
+            <div class="logo fadeInDown wow">
+                <a href="/ru/">
+                    <script type="text/javascript">
+window.criteo_q = window.criteo_q || [];
+window.criteo_q.push(
+{ event: "setAccount", account: 18976 },
+{ event: "setSiteType", type: "d" },
+{ event: "viewHome" }
+);
+</script>
+<!-- 246 -->
+
+
+
+<!-- /Yandex.Metrika counter -->
+            <!-- {literal} -->
+        <script type='text/javascript'>
+        window['l'+'ive'+'T'+'ex'] = true,
+        window['l'+'iveT'+'exID'] = 119949,
+        window['l'+'ive'+'Tex'+'_obj'+'ect'] = true;
+        (function() {
+        var t = document['creat'+'eEle'+'ment']('script');
+        t.type ='text/javascript';
+        t.async = true;
+        t.src = '//c'+'s15.l'+'ivete'+'x.r'+'u'+'/js/client.'+'j'+'s';
+        var c = document['ge'+'tElements'+'ByTagNam'+'e']('script')[0];
+        if ( c ) c['pare'+'n'+'tNod'+'e']['insert'+'Be'+'fore'](t, c);
+        else document['do'+'cumentE'+'lem'+'e'+'nt']['first'+'C'+'hild']['appen'+'dChil'+'d'](t);
+        })();
+        </script>
+        <!-- {/literal} -->
+        
+        
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '453234051922142');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=453234051922142&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3130169", type: "pageView", start: (new Date()).getTime(), pid: "USER_ID"});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3130169;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
