@@ -1,0 +1,36 @@
+При клике по шерам на странице результатов должен срабатывать скрипт (сейчас он срабатывает, но надо поменять значения параметров):
+<script>
+  gtag('event', 'result_sharing', {
+    'event_category': 'icon',
+    'event_label': '%social%'
+  });
+</script>
+Где %social% - краткое название соц. сети: fb, vk, ok
+
+
+При клике по шерам в попапе на странице с рецептами (https://jmp.sh/bYLvgHX):
+<script>
+  gtag('event', 'modal_sharing', {
+    'event_category': 'icon',
+    'event_label': '%social%'
+  });
+</script>
+Где %social% - краткое название соц. сети: fb, vk, ok
+
+
+Клик по кнопке "На главную" на странице рецептов (https://jmp.sh/2gyt0O7):
+<script>
+  gtag('event', 'click', {
+    'event_category': 'button',
+    'event_label': 'from_receipts_to_main'
+  });
+</script>
+
+
+Клик по кнопке "Дать ей намекнуть" на странице рецептов (https://jmp.sh/vHXSbXM):
+<script>
+  gtag('event', 'click', {
+    'event_category': 'button',
+    'event_label': 'modal_share'
+  });
+</script>
